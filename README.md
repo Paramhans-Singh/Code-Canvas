@@ -11,7 +11,7 @@ This project is a JavaScript-based code editor built with HTML, CSS, and JavaScr
 - **Live Preview**: See the results of HTML, CSS, and JavaScript code in real-time.
 
 ## CodeCanvas Website Preview 
-
+https://github.com/Paramhans-Singh/Code-Canvas/assets/101575816/2c853dd4-d6aa-4a6a-ba64-a7da4cb4cc2f
 
 ## Technologies Used
 - **Frontend**: HTML, CSS, JavaScript
